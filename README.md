@@ -11,6 +11,8 @@ conda install -n kingcounty seaborn
 conda install -n kingcounty sklearn
 ```
 
+
+```
 0    Assumptions
 
 1    First overview of the data
@@ -49,3 +51,4 @@ conda install -n kingcounty sklearn
 7.5      Outliers
 7.6      Training the model
 7.7      Evauate the model
+```
